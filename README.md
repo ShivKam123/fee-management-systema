@@ -35,8 +35,7 @@ A fully functional, web-based Fee Management System developed using PHP and MySQ
 ## ⚙️ Installation Steps
 
 1. **Clone or download** this repository  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/fee-management-system.git
+   ```bash\
 2. Move the project folder to your XAMPP htdocs directory Example: C:\xampp\htdocs\fee-management-system
 3. Start Apache and MySQL from the XAMPP Control Panel
 4. Open phpMyAdmin and import the SQL file (e.g., fee_management.sql)
